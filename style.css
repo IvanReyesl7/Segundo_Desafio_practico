@@ -1,0 +1,76 @@
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body{
+
+    font-size: 2.4rem;
+
+}
+
+p{
+    font-size: 2rem;
+    color: black;
+    line-height: 1.5;
+}
+
+.contenedor{
+    width: 95%;
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1,h2,h3{
+
+    margin: 0 0 5rem 0;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+
+h2{
+    font-size: 3.6rem;
+}
+
+h3{
+    font-size: 3rem;
+}
+
+img{
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/****/
+
+.header.h1{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+
+    font-family: 'Poppins', sans-serif;
+    padding: 0 25rem 0 25rem;
+    padding: 10rem 0 10rem 0;
+    color: black;
+}
+
+
+
